@@ -7,7 +7,7 @@
 - [x] Аудит-лог вызовов в SQLite
 - [x] Сквозной тест через настоящий MCP-протокол (test_client.py)
 - [x] README + ARCHITECTURE с явным сравнением с реальным production ТЗ
-- [ ] Залить на GitHub, добавить ссылку в FREELANCE.md
+- [x] Залить на GitHub, добавить ссылку в FREELANCE.md
 - [ ] Опционально: второй transport — Streamable HTTP (уже настоящий сетевой
       сервис → тогда осмысленно добавить Dockerfile/docker-compose)
 - [ ] Опционально: второй источник данных (второй "адаптер") — показать,
